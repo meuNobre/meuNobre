@@ -2,10 +2,10 @@
 - [Instagram](https://www.instagram.com/mnobre182)
 - [Discord](https://discord.com/users/966396759880400986)
 
-My name's João Miguel Nobre but you can call me "Nobre", I'm 15 years old, a NodeJs Javascript developer, and I live in Brazil.
+My name's João Miguel Nobre but you can call me "Nobre", I'm 15 years old, a Python developer, and I live in Brazil.
 
 ### 💻 Currently working on
-- [Chamas Community Bot](https://github.com/meuNobre/chamas-community-bot-discord-js)
+- [DRAGON #79091 National BSB 2025](https://github.com/meuNobre/NACIONAL-BSB-2025)
 
 # Ambitions
 
@@ -17,7 +17,7 @@ My name's João Miguel Nobre but you can call me "Nobre", I'm 15 years old, a No
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,python)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
