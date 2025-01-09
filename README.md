@@ -17,7 +17,7 @@ My name's João Miguel Nobre but you can call me "Nobre", I'm 15 years old, a Py
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
