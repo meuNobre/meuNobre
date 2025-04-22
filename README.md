@@ -13,14 +13,14 @@ Hi, I'm **João Miguel Nobre**, but feel free to call me **Nobre**!
 - [Instagram](https://www.instagram.com/nobre_dos_codigos)  
 - [Discord](https://discord.com/users/1361665692226556034)
 
----
+
 
 ## 🚀 Current Projects
 
 - 🛠️ [FRC Path Planner for FLL](https://github.com/meuNobre/Path-Planner-FRC-for-FLL)  
   A custom visual path planning tool inspired by FRC, adapted for FLL, allowing code generation and trajectory creation for Spike Prime.
 
----
+
 
 ## 🌟 Ambitions
 
@@ -28,13 +28,13 @@ Hi, I'm **João Miguel Nobre**, but feel free to call me **Nobre**!
 - 🔭 Never stop learning and improving  
 - 🤝 Support and grow with the community
 
----
+
 
 ## 🧰 Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,nodejs,vscode,discord)](https://skillicons.dev)
 
----
+
 
 ## 📊 GitHub Stats
 
