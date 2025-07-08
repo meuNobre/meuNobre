@@ -9,9 +9,9 @@ Hi, I'm **João Miguel Nobre**, but feel free to call me **Nobre**!
 
 ## 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-nobre-barros-789062344/)  
+- [LinkedIn](https://www.linkedin.com/in/joao-miguel-nobre/)  
 - [Instagram](https://www.instagram.com/nobre_dos_codigos)  
-- [Discord](https://discord.com/users/1361665692226556034)
+- [Discord](https://discord.com/users/966396759880400986)
 
 
 
