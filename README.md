@@ -1,10 +1,10 @@
 ## 👋 About Me
 
 Hi, I'm **João Miguel Nobre**, but feel free to call me **Nobre**!  
-🇧🇷 I'm a 15-year-old developer from Brazil, passionate about **Python**, **Java** and **JavaScript**, and always striving to push the boundaries of what I can create.
+🇧🇷 I'm a 16-year-old developer from Brazil, passionate about **Python**, and **JavaScript**, and always striving to push the boundaries of what I can create.
 
 - 💻 Developer with experience in robotics and automation, but constantly exploring new technologies, tools, and real-world applications.
-- 🤖 **Former FLL competitor**, **FIRST mentor**, and **future FRC team member**  
+- 🤖 **Former FLL competitor**, **FIRST mentor**, and **FTC team member**  
 - 🌱 Constant learner and enthusiastic collaborator
 
 ## 🔗 Connect with me
