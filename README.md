@@ -20,6 +20,9 @@ Hi, I'm **João Miguel Nobre**, but feel free to call me **Nobre**!
 - 🛠️ [FRC Path Planner for FLL](https://github.com/meuNobre/Path-Planner-FRC-for-FLL)  
   A custom visual path planning tool inspired by FRC, adapted for FLL, allowing code generation and trajectory creation for Spike Prime.
 
+- 🛠️ [FRC Path Planner for FTC](https://github.com/meuNobre/-Path-Planner-FRC-for-FTC)  
+  A custom visual path planning tool inspired by FRC, adapted for FTC, allowing code generation and trajectory creation for robots.
+
 
 
 ## 🌟 Ambitions
