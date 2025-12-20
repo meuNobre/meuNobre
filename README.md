@@ -78,6 +78,8 @@ class Nobre:
 
 ---
 
+## 🎯 Featured Projects
+
 ### 🌐 [Interactive Portfolio](https://portfolio-nobre.discloud.app/)
 
 **IntelliJ-inspired portfolio with real-time GitHub integration**
@@ -90,8 +92,6 @@ class Nobre:
 **[🔗 Visit Portfolio](https://portfolio-nobre.discloud.app/)**
 
 ---
-
-## 🎯 Featured Projects
 
 ### 🤖 [Path Planner FRC for FLL](https://github.com/meuNobre/Path-Planner-FRC-for-FLL)
 **Visual trajectory planning tool for FLL robots**
