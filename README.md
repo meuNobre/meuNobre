@@ -84,23 +84,12 @@ class Nobre:
 
 **IntelliJ-inspired portfolio with real-time GitHub integration**
 
-- 🎨 IDE-style design (IntelliJ theme)
-- 📊 Real-time GitHub API integration
-- 🎮 5 hidden Easter eggs
-- ⚡ Interactive code executor
-
 **[🔗 Visit Portfolio](https://portfolio-nobre.discloud.app/)**
 
 ---
 
 ### 🤖 [Path Planner FRC for FLL](https://github.com/meuNobre/Path-Planner-FRC-for-FLL)
 **Visual trajectory planning tool for FLL robots**
-
-- 🐍 Built with Python HTML, CSS, Java Script
-- 📐 Bezier curve trajectories
-- 🤖 Spike Prime code generation
-- 🌟 Used by FLL teams across Brazil
-
 ![Stars](https://img.shields.io/github/stars/meuNobre/Path-Planner-FRC-for-FLL?style=social)
 ![Forks](https://img.shields.io/github/forks/meuNobre/Path-Planner-FRC-for-FLL?style=social)
 
@@ -108,37 +97,13 @@ class Nobre:
 
 ### 🏢 [Wayne Industries System](https://github.com/meuNobre/wayne-industries-project)
 **Fullstack management platform**
-
-- ⚡ Flask backend + MySQL database
-- 🎨 Responsive frontend with HTML, CSS & JavaScript
-- 🔐 Complete authentication system
-- 📊 Admin dashboard with CRUD operations
 - 🌐 [**Live Demo**](https://wayne-industries-project.vercel.app/)
 
-![Stars](https://img.shields.io/github/stars/meuNobre/wayne-industries-project?style=social)
-![Forks](https://img.shields.io/github/forks/meuNobre/wayne-industries-project?style=social)
-
 ---
-
-## 🏆 Impact & Achievements
-
-| 🎓 Teams Mentored | 🏅 National Competitions | 👥 Students Impacted | ⏱️ Years Coding |
-|:---:|:---:|:---:|:---:|
-| **5+** | **4** | **50+** | **8** |
-
-### 🥇 Teams Mentored to Nationals
-
-```diff
-+ Crazy Tech (CE)         → FLL National 2023/24
-+ New Xp (CE)             → FLL National 2023/24  
-+ Pipeline Surfers (SC)   → FLL National 2025/26
-+ Construtores (RS)       → FLL National 2024/25
-```
 
 **Additional Contributions:**
 - 📚 Created Python FLL Manual used by 100+ students nationwide
 - 📱 [@nobre_dos_codigos](https://instagram.com/nobre_dos_codigos) - Educational content on Instagram
-- 🔗 [FLL Python Manual](https://docs.google.com/forms/d/e/1FAIpQLSfnpKDW0rpQE3XSvJRbq4I7VUhD2dS1gzIbUpuKy4Ts9FLAyw/viewform) - Access the manual
 
 ---
 
@@ -155,16 +120,6 @@ const myPrinciples = {
   iteration: "Code is alive—always improve"
 };
 ```
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Advanced system architecture patterns
-- ☁️ Cloud technologies (AWS/Azure)
-- 🤖 Machine Learning fundamentals
-- 🔧 DevOps best practices
-- ⚙️ Java WPI for FRC
 
 ---
 
