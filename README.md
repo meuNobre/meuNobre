@@ -27,9 +27,6 @@ class Nobre:
             "📚 Creating educational content",
             "🌟 Contributing to open-source"
         ]
-    
-    def fun_fact(self):
-        return "I've helped 5+ teams reach national robotics competitions! 🏆"
 ```
 
 ---
@@ -91,12 +88,6 @@ class Nobre:
 
 ---
 
-**Additional Contributions:**
-- 📚 Created Python FLL Manual used by 100+ students nationwide
-- 📱 [@nobre_dos_codigos](https://instagram.com/nobre_dos_codigos) - Educational content on Instagram
-
----
-
 ## 💭 Philosophy
 
 > **"Code is poetry, but good code is poetry that others can read."**
@@ -114,12 +105,6 @@ const myPrinciples = {
 ---
 
 ## 📫 Let's Connect!
-
-**I'm open to:**
-- 💼 Collaboration opportunities
-- 🎓 Mentorship and teaching
-- 🤝 Open-source contributions
-- 💬 Tech discussions
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-61DAFB?style=for-the-badge)](https://portfolio-nobre.discloud.app/)
 [![Email](https://img.shields.io/badge/📧_nobrecoding@gmail.com-D14836?style=for-the-badge)](mailto:nobrecoding@gmail.com)
@@ -144,7 +129,7 @@ if coffee == True and music == "Djavan":
 
 ```ascii
 ╔═══════════════════════════════════════════════════════╗
-║  "The only way to do great work is to love what      ║
-║   you do and share it with others."  - Nobre         ║
+║  "The only way to do great work is to love what       ║
+║   you do and share it with others."  - Nobre          ║
 ╚═══════════════════════════════════════════════════════╝
 ```
