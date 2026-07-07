@@ -8,29 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class Nobre:
-    def __init__(self):
-        self.name = "João Miguel Nobre Barros"
-        self.age = 16
-        self.location = "Fortaleza, CE 🇧🇷"
-        self.coding_since = 2016  # Started at 8 years old
-        self.role = "Fullstack Developer & Robotics Mentor"
-        self.education = "Technical Student in Systems Development"
-        
-    def current_focus(self):
-        return [
-            "🔨 Building fullstack applications",
-            "🤖 Mentoring FLL/FTC teams",
-            "📚 Creating educational content",
-            "🌟 Contributing to open-source"
-        ]
-```
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -57,14 +34,6 @@ class Nobre:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meuNobre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meuNobre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8)
-
----
-
 ## 🎯 Featured Projects
 
 ### 🌐 [Interactive Portfolio](https://portfolio-nobre.discloud.app/)
@@ -72,13 +41,6 @@ class Nobre:
 **IntelliJ-inspired portfolio with real-time GitHub integration**
 
 **[🔗 Visit Portfolio](https://portfolio-nobre.discloud.app/)**
-
----
-
-### 🤖 [Path Planner FRC for FLL](https://github.com/meuNobre/Path-Planner-FRC-for-FLL)
-**Visual trajectory planning tool for FLL robots**
-![Stars](https://img.shields.io/github/stars/meuNobre/Path-Planner-FRC-for-FLL?style=social)
-![Forks](https://img.shields.io/github/forks/meuNobre/Path-Planner-FRC-for-FLL?style=social)
 
 ---
 
@@ -110,16 +72,6 @@ const myPrinciples = {
 [![Email](https://img.shields.io/badge/📧_nobrecoding@gmail.com-D14836?style=for-the-badge)](mailto:nobrecoding@gmail.com)
 [![Instagram](https://img.shields.io/badge/📱_@nobre__dos__codigos-E4405F?style=for-the-badge)](https://instagram.com/nobre_dos_codigos)
 
----
-
-## 🎮 Fun Fact
-
-```python
-if coffee == True and music == "Djavan":
-    productivity *= 1000
-    bugs_fixed += random.randint(10, 100)
-    easter_eggs_created += 5
-```
 
 ---
 
