@@ -5,16 +5,15 @@
 
 ---
 
-**Fullstack developer** · TypeScript/Node.js & Python · Discord bot architecture · FTC robotics mentor @ All Might 32576
+**Fullstack developer** · TypeScript/Node.js & Python · Discord bot architecture · FTC robotics mentor @ [All Might 32576](https://www.instagram.com/allmight.ftc)
 
-I build systems that need to survive real usage: Discord bots handling recruitment workflows for a 100+ member community, strategy tools used live during robotics competitions, Minecraft plugins running real PvP/economy mechanics. Most of what I know about production concerns — auth, state consistency, async decoupling, clean domain boundaries — comes from maintaining systems people actually depend on, not from tutorials.
+I build systems that need to survive real usage: Discord bots handling recruitment workflows for a 100+ member community, strategy tools used live during robotics competitions, Minecraft plugins running real PvP/economy mechanics. Most of what I know about production concerns (auth, state consistency, async decoupling, clean domain boundaries) comes from maintaining systems people actually depend on, not from tutorials.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meuNobre&show_icons=true&count_private=true&theme=transparent&hide_border=true&text_color=888880&icon_color=1D9E75&title_color=1D9E75" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=meuNobre&theme=transparent&hide_border=true&stroke=888880&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" height="165" alt="GitHub streak" />
+<img src="https://github-stats-extended.vercel.app/api?username=meuNobre&show_icons=true&count_private=true&theme=transparent&hide_border=true&text_color=888880&icon_color=1D9E75&title_color=1D9E75" height="165" alt="GitHub stats" /><img src="https://streak-stats.demolab.com/?user=meuNobre&theme=transparent&hide_border=true&stroke=888880&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -31,20 +30,20 @@ I build systems that need to survive real usage: Discord bots handling recruitme
 - 🤖 Discord bot architecture with DDD, ports/adapters, and typed domain models (TypeScript + Discord.js)
 - 🦾 Building tooling for FIRST Tech Challenge robotics (strategy boards, core libraries, hardware abstraction)
 - 🧩 Java/Paper plugin development for Minecraft server infrastructure
-- 📚 Documenting and formalizing processes that used to be improvised — HR workflows, access control, onboarding
+- 📚 Documenting and formalizing processes that used to be improvised - HR workflows, access control, onboarding
 
 ---
 
 ## Featured projects
 
 ### 🤖 hylex-interview-bot
-TypeScript/Discord.js bot automating staff recruitment for a Discord gaming community — DDD architecture, Mongoose/MongoDB, Result monad, role-based authorization, audit logging, and lifecycle-tracked interview/introduction pipelines.
+TypeScript/Discord.js bot automating staff recruitment for a Discord gaming community - DDD architecture, Mongoose/MongoDB, Result monad, role-based authorization, audit logging, and lifecycle-tracked interview/introduction pipelines.
 
 ### 🎯 FTC PLUSBOARD *(private)*
-Strategy board web app for FTC team All Might 32576 — real season field imagery, draggable robot chips, freehand tactical drawing, FTCScout API integration, and match import/export.
+Strategy board web app for FTC team All Might #32576 - real season field imagery, draggable robot chips, freehand tactical drawing, FTCScout API integration, and match import/export.
 
 ### ⚔️ MolestaSquad
-Paper 1.21 Java plugin adding faction/mafia PvP mechanics to a Minecraft server — physical flag capture, territory control, proximity alerts, and Discord webhook integration.
+Paper 1.21 Java plugin adding faction/mafia PvP mechanics to a Minecraft server - physical flag capture, territory control, proximity alerts, and Discord webhook integration.
 
 ---
 
@@ -63,9 +62,9 @@ Paper 1.21 Java plugin adding faction/mafia PvP mechanics to a Minecraft server 
 
 ## 📫 Reach me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nobre.discloud.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nobre-five.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-miguel-nobre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobrecoding@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nobre_dos_codigos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nobredoscodigos)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meuNobre&style=for-the-badge&color=61dafb)
